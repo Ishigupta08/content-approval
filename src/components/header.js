@@ -1,5 +1,3 @@
-import { Bell } from "lucide-react"
-
 export default function Header() {
   return (
     <header className=" dark:bg-gray-800 border-[#e7e8ea] dark:border-gray-700 p-6 flex justify-between items-start">
